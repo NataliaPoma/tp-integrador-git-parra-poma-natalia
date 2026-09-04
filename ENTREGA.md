@@ -6,9 +6,9 @@
 - Fecha de entrega: 04/09/2026
 
 ## Enlaces
-- Repositorio de GitHub: [URL]
-- Issue: [URL]
-- Pull request: [URL]
+- Repositorio de GitHub: https://github.com/NataliaPoma/tp-integrador-git-parra-poma-natalia
+- Issue: https://github.com/NataliaPoma/tp-integrador-git-parra-poma-natalia/issues/1#issue-5352162303
+- Pull request: https://github.com/NataliaPoma/tp-integrador-git-parra-poma-natalia/pull/2#issue-5352203316
 
 ## Comandos principales utilizados
 - git init
