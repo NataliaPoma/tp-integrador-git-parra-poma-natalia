@@ -3,7 +3,7 @@
 ## Datos del participante
 - Nombre y apellido: Natalia Romina Parra Poma
 - Curso: Introducción a Git y GitHub
-- Fecha de entrega: 04/09/2026
+- Fecha de entrega: 05/09/2026
 
 ## Enlaces
 - Repositorio de GitHub: https://github.com/NataliaPoma/tp-integrador-git-parra-poma-natalia
